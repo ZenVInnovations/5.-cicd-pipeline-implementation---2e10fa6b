@@ -1,4 +1,4 @@
-**Final Output or Interface**
+**Final Output**
 <img width="1470" alt="Screenshot 2025-05-15 at 9 56 28 AM" src="https://github.com/user-attachments/assets/aa43ed1e-7e79-4d3c-880d-1370523ea8ac" 
   />**Features**
 ->Responsive layout with a modern, clean UI
